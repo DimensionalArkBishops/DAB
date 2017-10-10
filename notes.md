@@ -18,11 +18,13 @@ Core Members
 
 
 POWERHOUSE101
--Powerhouse founded DAB in Spring 2008. Enjoys playing support roles, main charachter being Engineer. 
+-Powerhouse founded DAB in Spring 2008.
+
+In most games I go by POWERHOUSE101. I enjoy the challenge of playing support roles such as Engineer, and playing them on the front line. I am always looking for the next strategic advantage. 
 
 
 Bishop
--Cofounder and Teamspeak owner. Enjoys playing front line roles. 
+-Cofounder and Teamspeak owner. Enjoys playing front line roles. Main class: Warrior 
 
 
 Lafayette/Vong
@@ -30,13 +32,13 @@ Lafayette/Vong
 
 
 NapalmClaw/Abbot
-
+Main class: Elementalist
 
 Doom
-
+Main class Gardian
 
 Arithmancer
-
+Team coder, website owner, main class: Theif
 
 Tymestrike/Myth
  My handle is tymestrike, I joined Dimensional Ark Bishops in spring of ’14. I tend to focus on Tank style characters for games where that is viable. I prefer to be in the thick of battle but not be the one doing the most damage, I operate on the concept “If I am the biggest threat on the battlefield, or appear to be, my allies can lay waste to everything around me.” I played WoW from just before Burning Crusade launch till just after Cataclysm as a Raid tank Paladin, that style of play has never left me.
