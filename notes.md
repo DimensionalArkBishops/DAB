@@ -55,7 +55,7 @@ Main class: Elementalist
 Other games playing: Warframe, Overwatch, GTA 5 
 
 Doom - Area DPS
-Main class Gardian. Doom 
+Main class Gardian.
 
 Other games playing: Space Engineers, Kerbal Space Program, Galactic Civilizations 3 
 
