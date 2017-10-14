@@ -4,6 +4,7 @@
 
 ***
 Server: Gate of Madness
+Rep requirement: None
 
 
 DimensionalArkBishops is a small guild in which members enjoy thinking outside the box. Doing away with standard builds, and operating as a well coordinated party, DAB can handle objectives normally meant for large groups. Using Teamspeak 3, even when not on the same game at any given time, members enjoy just hanging out. We are internally competitive and never back down from challenges. 
