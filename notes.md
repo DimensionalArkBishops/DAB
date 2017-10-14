@@ -3,9 +3,12 @@
 ## Write below this line
 
 ***
+Server: Gate of Madness
+
+
 DimensionalArkBishops is a small guild in which members enjoy thinking outside the box. Doing away with standard builds, and operating as a well coordinated party, DAB can handle objectives normally meant for large groups. Using Teamspeak 3, even when not on the same game at any given time, members enjoy just hanging out. We are internally competitive and never back down from challenges. 
 
-We are currently recruiting players of all skill levels and professions. If you are interested feel free to join us on Teamspeak (link in this website) 
+We are currently recruiting players of all skill levels and professions. If you are interested feel free to join us on Teamspeak (link in this website). 
 
 Even when not in Guild Wars our members still hang out on Teamspeak. 
 
@@ -34,7 +37,7 @@ Bishop - DPS
 
 Bishop goes by Xavier Baysh in Guild Wars. 
 
-Other games: Star Trek Online
+Other games: Star Trek Online, World Of Tanks
 
 
 Lafayette/Vong - Jack of all trades
@@ -42,25 +45,26 @@ Plays: Condition Necromancer, Heal Guardian
 
 Jack of all trades, 
 
-Other games: Overwatch, Warframe
+Other games: Overwatch, Warframe, GTA 5
 
 NapalmClaw/Abbot - Condition 
 Main class: Elementalist
 
-Other games playing: Warframe, Overwatch
+Other games playing: Warframe, Overwatch, GTA 5 
 
 Doom - Area DPS
 Main class Gardian. Doom 
 
-Other games playing: Space Engineers, Kerbal Space Program, Fallout 4
+Other games playing: Space Engineers, Kerbal Space Program, Galactic Civilizations 3 
 
-Arithmancer - Sneak Theif
+Arithmancer - Sneak Thief
 Team coder, website owner, main class: Theif
 
 Tymestrike/Myth - Front line tank, DPH
 
  My handle is tymestrike, I joined Dimensional Ark Bishops in spring of ’14. I tend to focus on Tank style characters for games where that is viable. I prefer to be in the thick of battle but not be the one doing the most damage, I operate on the concept “If I am the biggest threat on the battlefield, or appear to be, my allies can lay waste to everything around me.” I played WoW from just before Burning Crusade launch till just after Cataclysm as a Raid tank Paladin, that style of play has never left me.
 
-Other Games: Warframe
+Other Games: Warframe, Endless Legend, The Witcher
+
 _Formatted Stuff_    
 **More formatted Stuff**
