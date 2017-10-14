@@ -43,7 +43,8 @@ Other games: Star Trek Online, World Of Tanks
 Lafayette/Vong - Jack of all trades
 Plays: Condition Necromancer, Heal Guardian
 
-Jack of all trades, 
+Support leaning play style 
+
 
 Other games: Overwatch, Warframe, GTA 5
 
@@ -60,7 +61,7 @@ Other games playing: Space Engineers, Kerbal Space Program, Galactic Civilizatio
 Arithmancer - Sneak Thief
 Team coder, website owner, main class: Theif
 
-Tymestrike/Myth - Front line tank, DPH
+Tymestrike/Myth - Front line tank, Damage per Hit
 
  My handle is tymestrike, I joined Dimensional Ark Bishops in spring of ’14. I tend to focus on Tank style characters for games where that is viable. I prefer to be in the thick of battle but not be the one doing the most damage, I operate on the concept “If I am the biggest threat on the battlefield, or appear to be, my allies can lay waste to everything around me.” I played WoW from just before Burning Crusade launch till just after Cataclysm as a Raid tank Paladin, that style of play has never left me.
 
