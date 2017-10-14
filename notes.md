@@ -47,17 +47,17 @@ Plays: Condition Necromancer, Heal Guardian
 Support leaning play style 
 
 
-Other games: Overwatch, Warframe, GTA 5
+Other games: Overwatch, Warframe, GTA V
 
 NapalmClaw/Abbot - Condition 
 Main class: Elementalist
 
-Other games playing: Warframe, Overwatch, GTA 5 
+Other games playing: Warframe, Overwatch, GTA V 
 
 Doom - Area DPS
 Main class Gardian.
 
-Other games playing: Space Engineers, Kerbal Space Program, Galactic Civilizations 3 
+Other games playing: GTA V, Kerbal Space Program, Galactic Civilizations 3 
 
 Arithmancer - Sneak Thief
 Team coder, website owner, main class: Theif
