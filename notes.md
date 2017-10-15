@@ -18,7 +18,7 @@ Even when not in Guild Wars our members still hang out on Teamspeak.
 
 ***
 
-#Gaming History
+# Gaming History
 
 2008 - 2009 Darkorbit - Browser space MMO  
 2009 - 2013 Air Rivals - 3D Space MMO  
@@ -27,7 +27,7 @@ Even when not in Guild Wars our members still hang out on Teamspeak.
 
 ***
 
-#Core Members
+# Core Members
 These players have been with our group a long time, a brief description of each is below
 
 
@@ -71,7 +71,7 @@ keeps extra agro down.
 Other games playing: GTA V, Kerbal Space Program, Fallout 4
 
 
-##Arithmancer - Condition Thief
+## Arithmancer - Condition Thief
 Team coder, website owner, main class: Thief
 
 
