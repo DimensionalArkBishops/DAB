@@ -59,7 +59,7 @@ Doom - Area DPS
 
 Main class Gardian.  Doom plays with the idea of "kill everything".  Using builds that take down massive numbers of mobs simeltaneously, Doom usually keeps extra agro down. 
 
-Other games playing: GTA V, Kerbal Space Program, Galactic Civilizations 3 
+Other games playing: GTA V, Kerbal Space Program, Fallout 4
 
 Arithmancer - Sneak Thief
 Team coder, website owner, main class: Theif
