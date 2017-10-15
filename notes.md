@@ -55,7 +55,9 @@ Main class: Elementalist
 Other games playing: Warframe, Overwatch, GTA V 
 
 Doom - Area DPS
-Main class Gardian.
+
+
+Main class Gardian.  Doom plays with the idea of "kill everything".  Using builds that take down massive numbers of mobs simeltaneously, Doom usually keeps extra agro down. 
 
 Other games playing: GTA V, Kerbal Space Program, Galactic Civilizations 3 
 
