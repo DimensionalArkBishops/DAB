@@ -7,6 +7,7 @@
 Server: Gate of Madness  
 Rep requirement: None
 
+We are a small, casual guild. Players who have less time to play or are new to the game are given priority when we decide what we are doing each night. Currently, our only events are Fractals/Dongeons and (attempted) Raids on Tuesdays, and Guiild Missions on Thursdays. Sometimes we will play WvW being a small roaming party. Overall, we are very flexible in what we do and never back down from a challenge. 
 
 DimensionalArkBishops is a small guild in which members enjoy thinking outside the box. Doing away with standard builds, and operating as a well
 coordinated party, DAB can handle objectives normally meant for large groups. Using Teamspeak 3, even when not on the same game at any given time,
@@ -16,6 +17,7 @@ We are currently recruiting players of all skill levels and professions. If you 
 
 Even when not in Guild Wars our members still hang out on Teamspeak.
 
+If you are interested, please feel free to join us in TeamSpeak, you can get to know us and see if we really are the kind of group you are looking for. 
 ***
 
 # Gaming History
