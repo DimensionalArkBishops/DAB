@@ -7,7 +7,7 @@
 Server: Gate of Madness  
 Rep requirement: None
 
-We are a small, casual guild. Players who have less time to play or are new to the game are given priority when we decide what we are doing each night. Currently, our only planned events are Fractals/Dongeons and (attempted) Raids on Tuesdays, and Guiild Missions on Thursdays. Sometimes we will play WvW being a small roaming party. Overall, we are very flexible in what we do and never back down from a challenge. 
+We are a small, casual guild. Players who have less time to play or are new to the game are given priority when we decide what we are doing each night. Currently, our only planned events are Fractals/Dungeons and (attempted) Raids on Tuesdays, and Guiild Missions on Thursdays. Sometimes we will play WvW being a small roaming party. Overall, we are very flexible in what we do and never back down from a challenge. 
 
 
 We like to think outside the box. We experiment with builds and challenge the general meta. Being a small group through many games we have come to be self sufficient and well coordinated. Most events and champs are not a problem for us. 
