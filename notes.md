@@ -10,7 +10,8 @@ Rep requirement: None
 We are a small, casual guild. Players who have less time to play or are new to the game are given priority when we decide what we are doing each night. Currently, our only planned events are Fractals/Dungeons and (attempted) Raids on Tuesdays, and Guiild Missions on Thursdays. Sometimes we will play WvW being a small roaming party. Overall, we are very flexible in what we do and never back down from a challenge. 
 
 
-We like to think outside the box. We experiment with builds and challenge the general meta. Being a small group through many games we have come to be self sufficient and well coordinated. Most events and champs are not a problem for us. 
+We like to think outside the box. We experiment with builds and challenge the general meta. Being a small group and having played many games, we have come to rely on each other and have become self sufficient and well coordinated. We like to improve our builds by fighting in our guild hall and also looking for the best stat combo's that compliment the desired function of the build in question. Most events and champs are not a problem for us. 
+
 Since we use Teamspeak 3, even when not on the same game at a given time, we enjoy just hanging out. 
 
 We are currently recruiting players of all skill levels and professions. If you are interested feel free to [join us on Teamspeak](ts.html).
