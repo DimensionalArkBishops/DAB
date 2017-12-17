@@ -1,92 +1,99 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <title>Dimensional Ark Bishops</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>DAB | Dimensional Ark Bishops</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="dimensional-ark-bishops.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/dimensional-ark-bishops.png">
 
-    <link rel="stylesheet" href="css/main.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <link href="css/jumbotron.css">
 </head>
 <body>
-<nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
-                    aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#">Dimensional Ark Bishops</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a> <span class="sr-only">(current)</span></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="history.html">History</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="ts.html">Teamspeak</a></li>
-                <li><a href="gw2.html">Guild Wars 2</a></li>
-            </ul>
-        </div><!--/.nav-collapse -->
-    </div><!--/.container-fluid -->
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Dimensional Ark Bishops</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="members.html">Core Members</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="gw2.html">Guild Wars 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="ts.html">TeamSpeak</a>
+            </li>
+        </ul>
+    </div>
 </nav>
 
-<div class="container">
-    <div class="row">
-        <div class="col-xs-12 text-center">
-            <h1>Dimensional Ark Bishops</h1>
+<main role="main">
+    <div class="jumbotron">
+        <div class="container" style="position: relative;">
+            <h1>GW2 Message of the Day</h1>
+            <p id="motd"></p>
         </div>
     </div>
 
-    <div class="row">
-        <div class="col-md-6 col-xs-12 text-center">
-            <a href="about.html" class="btn btn-primary btn-lg btn-block" role="button">About the Guild</a>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Core Members</h2>
+                <p>Learn more about our current members!</p>
+                <p><a class="btn btn-secondary" href="members.html" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Guild Wars 2</h2>
+                <p>Our main game at the moment. Learn more about the guild and how to join!</p>
+                <p><a class="btn btn-secondary" href="gw2.html" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>TeamSpeak 3</h2>
+                <p>How to connect with us on our voice chat server. Swing by and hang out sometime!</p>
+                <p><a class="btn btn-secondary" href="ts.html" role="button">View details &raquo;</a></p>
+            </div>
         </div>
-
-        <div class="col-md-6 col-xs-12 text-center">
-            <a href="history.html" class="btn btn-lg btn-block" role="button">History of the Guild</a>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <h3>Guild History</h3>
+                <ul class="list-group">
+                    <li class="list-group-item list-group-item-primary">2015 - Now | Guild Wars 2</li>
+                    <li class="list-group-item">2014 - 2015 | Star Trek Online and various other games</li>
+                    <li class="list-group-item">2009 - 2013 | Air Rivals - 3D Space MMO</li>
+                    <li class="list-group-item">2008 - 2009 | Darkorbit - Browser space MMO</li>
+                </ul>
+            </div>
         </div>
+        <hr />
     </div>
+</main>
 
-    <div class="row">
-        <div class="col-md-6 col-xs-12 text-center">
-            <a href="contact.html" class="btn btn-lg btn-block" role="button">Contact Us</a>
-        </div>
+<footer class="container">
+    <p>&copy; MIT License, view source <a href="https://github.com/DimensionalArkBishops/DAB">here</a></p>
+</footer>
 
-        <div class="col-md-6 col-xs-12 text-center">
-            <a href="ts.html" class="btn btn-lg btn-block" role="button">Teamspeak Info</a>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-xs-12 text-center">
-            <a href="gw2.html" class="btn btn-lg btn-block" role="button">Guild Wars 2 Info</a>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-xs-12 text-center">
-            <h3>GW2 Message of the Day:</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-xs-12">
-            <div id="motd"></div>
-        </div>
-    </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
         crossorigin="anonymous"></script>
 
 <script src="js/motd.js"></script>
