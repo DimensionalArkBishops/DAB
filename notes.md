@@ -14,7 +14,7 @@ We like to think outside the box. We experiment with builds and challenge the ge
 
 Since we use Teamspeak 3, even when not on the same game at a given time, we enjoy just hanging out. 
 
-We are currently recruiting players of all skill levels and professions. If you are interested feel free to [join us on Teamspeak](ts.html).
+We are currently recruiting players of all skill levels and professions. If you are interested feel free to [join us on Teamspeak](chat.html).
 
 
 If you are interested, please feel free to join us in TeamSpeak, you can get to know us and see if we really are the kind of group you are looking for. 

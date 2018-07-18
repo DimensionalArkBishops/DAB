@@ -23,12 +23,15 @@ $(document).ready(function() {
     mostRecentMessage = mostRecentMessage.replace(httpReplace, '<a href="$1" target="_blank">$1</a>');
 
     //Add links to urls starting with just www.
-    var wwwReplace = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+    var wwwReplace = /(^|[^\/])(www\.[^<]+(\b|$))/gim;
     mostRecentMessage = mostRecentMessage.replace(wwwReplace, '$1<a href="http://$2" target="_blank">$2</a>');
 
     //Add links to Teamspeak3 urls
-    var ts3Replace = /(^|[^\/])(ts3\.[\S]+(\b|$))/gim;
+    var ts3Replace = /(^|[^\/])(ts3\.[^<]+(\b|$))/gim;
     mostRecentMessage = mostRecentMessage.replace(ts3Replace, '$1<a href="http://$2" target="_blank">$2</a>');
+
+    ts3Replace = /(^|[^>]+teamspeak3\.[^<]+)/gim;
+    mostRecentMessage = mostRecentMessage.replace(ts3Replace, '<a href="http://$1" target="_blank">$1</a>');
 
     //Handle GW2 chat codes by turning them into item names
     chatLinks = mostRecentMessage.match(/\[&Ag([\w]+)\]/gm);
